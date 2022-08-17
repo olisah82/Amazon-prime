@@ -1,0 +1,1 @@
+# cloudfront to catch movies static content
